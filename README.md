@@ -30,7 +30,7 @@ Testing Urls's
 ```
 
 ```
-docker ps -a
+sudo docker ps -a
 ```
 it will list all container running.
 
